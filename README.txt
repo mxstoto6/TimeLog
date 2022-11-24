@@ -11,4 +11,4 @@ Don't hesitate to clear the json file by setting each value to 0.
 
 
 Your antivirus might recognize the files as viruses, but they're safe: simply allow them.
-By the way, i'll put you the source codes in the "sources" folder.
+By the way, i'll put the source codes in the "sources" folder.
